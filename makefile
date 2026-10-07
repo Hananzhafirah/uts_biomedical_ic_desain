@@ -2,10 +2,10 @@ DIR_BUILD = build
 DIR_CONS  = constraints
 DIR_RTL   = rtl
 
-PROJECT    = uts1
+PROJECT    = top_tm1638_demo
 TOP_MODULE = top
 
-VERILOGS = $(DIR_RTL)/uts1.v $(DIR_RTL)/tm1638.v
+VERILOGS = $(DIR_RTL)/top_tm1638_demo.v $(DIR_RTL)/tm1638.v
 
 
 # =========================
